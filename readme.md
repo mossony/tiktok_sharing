@@ -2,5 +2,5 @@
 
 Share every video on TikTok to your friend. Realized with Auto.js.  
   
-For using: download Auto.js and import the files to a project.
+To use, download Auto.js and import the files to a project.
 
